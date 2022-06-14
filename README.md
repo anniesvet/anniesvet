@@ -3,11 +3,12 @@
 <p>🔭 I’m currently working on ReactApp</p>
 <p>🌱 I’m currently learning ReactJS</p>
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
-<p> ⚡ Technologies: HTML5 (Flexbox, Grid, Adaptive Layout, Bootstrap), CSS3 (Sass, SCSS), БЭМ, JavaScript (ES6), ReactJS, Figma</p>
 
 <h3 align="left">Technologies:</h3> 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<p> ⚡ Technologies: HTML5 (Flexbox, Grid, Adaptive Layout, Bootstrap), CSS3 (Sass, SCSS), БЭМ, JavaScript (ES6), ReactJS, Figma</p>
 
 <!--
 **anniesvet/anniesvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
