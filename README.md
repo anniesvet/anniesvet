@@ -4,6 +4,8 @@
 <p>🌱 I’m currently learning ReactJS</p>
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
 <p> ⚡ Skills: БЭМ, Adaptive Layout</p>
+<p></p>
+<p></p>
 
 <h2 align="left">Frameworks, Platforms and Libraries</h3> 
 
