@@ -3,6 +3,7 @@
 <p>🔭 I’m currently working on ReactApp</p>
 <p>🌱 I’m currently learning ReactJS</p>
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
+<p> ⚡ Skills: БЭМ, Adaptive Layout</p>
 
 <h3 align="left">Frameworks, Platforms and Libraries</h3> 
 
