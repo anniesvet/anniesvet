@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h1>
 <h3 align="center">I'm frontend developer from Moscow</h3> 
 <p>🔭 I’m currently working on ReactApp</p>
 <p>🌱 I’m currently learning ReactJS</p>
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
 <p> ⚡ Skills: БЭМ, Adaptive Layout</p>
 
-<h1 align="left">Frameworks, Platforms and Libraries</h3> 
+<h2 align="left">Frameworks, Platforms and Libraries</h3> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
