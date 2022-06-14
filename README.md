@@ -5,6 +5,8 @@
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
 <p> ⚡ Technologies: HTML5 (Flexbox, Grid, Adaptive Layout, Bootstrap), CSS3 (Sass, SCSS), БЭМ, JavaScript (ES6), ReactJS, Figma</p>
 
+<h3 align="left">Technologies:</h3> 
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
