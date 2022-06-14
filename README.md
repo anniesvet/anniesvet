@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋</h1>
-<h3 align="center">I'm frontend developer from Moscow</h3> 
+<h3 align="center">I'm a frontend developer from Moscow</h3> 
 <p>🔭 I’m currently working on ReactApp</p>
 <p>🌱 I’m currently learning ReactJS</p>
 <p> 💬 Ask me about digital marketing, cinema and literature</p>
