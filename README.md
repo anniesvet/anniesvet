@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm frontend developer from Moscow</h3> 
+<p>🔭 I’m currently working on ReactApp</p>
+<p>🌱 I’m currently learning ReactJS</p>
+<p> 💬 Ask me about digital marketing, cinema and literature</p>
+<p> ⚡ Technologies: HTML5 (Flexbox, Grid, Adaptive Layout, Bootstrap), CSS3 (Sass, SCSS), БЭМ, JavaScript (ES6), ReactJS, Figma</p>
 
 <!--
 **anniesvet/anniesvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
